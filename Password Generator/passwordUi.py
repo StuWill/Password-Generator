@@ -8,7 +8,7 @@
 
 """
 Todo List:
-    Program doesn't like to make more than 8 programs. Goes unresponsive at 9+
+    Program doesn't like to make more than 8 passwords. Goes unresponsive at 9+
         could fix by changing lineEdits to spinBoxes (give fixed options)
             this could also fix issue with incorrect data type being entered and error not showing up.
 
@@ -17,6 +17,7 @@ Todo List:
     Perhaps add an input where passwords could be named (ie what they are for)
         could then be written to a file where they can be stored?
 
+    Program freezes if generate passwords is pressed repeatedly...
 
 """
 
